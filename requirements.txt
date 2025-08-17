@@ -1,8 +1,12 @@
+pip>=25.0
+setuptools>=77.0.3
+wheel>=0.45.1
 Flask==3.0.3
 spacy==3.7.5
 PyPDF2==3.0.1
 scikit-learn==1.5.2
 gunicorn==23.0.0
 https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1.tar.gz#egg=en_core_web_sm
+
 
 
